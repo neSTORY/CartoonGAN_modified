@@ -116,7 +116,7 @@
 
 ## Reference
 
-- `CartoonGAN paper` (https://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_CartoonGAN_Generative_Adversarial_CVPR_2018_paper.pdf)
+- CartoonGAN paper (https://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_CartoonGAN_Generative_Adversarial_CVPR_2018_paper.pdf)
 - U-GAT-IT paper (https://arxiv.org/abs/1907.10830)
 - U-GAT-IT 저자 온라인 설명(https://www.youtube.com/watch?v=SD7AeJIvknI&t=5159s)
 - keras 공식문서 - Cycle GAN(https://keras.io/examples/generative/cyclegan/)
